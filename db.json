@@ -1,0 +1,22 @@
+{
+    [
+    {
+	  "longitude": 34.00,
+      "latitude": -6.79,
+      "message": "Unavailable",
+      "icon": 0
+    },
+    {
+      "longitude": 34.02,
+      "latitude": -6.81,
+      "message": "Idle",
+      "icon": 1
+    },
+	{
+      "longitude": 34.01,
+      "latitude": -6.82,
+      "message": "Active",
+      "icon": 2
+    }
+    ]
+  }
