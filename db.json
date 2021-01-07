@@ -1,8 +1,8 @@
 {
     "Postes":[
     {
-	  "longitude": 34.00,
-      "latitude": -6.79,
+	  "longitude": 34.024339-0.0000001,
+      "latitude": -6.8269-0.000001,
       "message": "Unavailable",
       "icon": 0
     },{
